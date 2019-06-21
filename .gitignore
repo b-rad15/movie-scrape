@@ -1,0 +1,5 @@
+*.ini
+*.sql
+*.html
+37-32venv
+.idea
